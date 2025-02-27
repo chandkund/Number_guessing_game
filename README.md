@@ -7,7 +7,7 @@ This is a simple number guessing game implemented in Python. The game generates 
 In this game:
 - The user is asked to input the start and end range for the random number.
 - A random number is generated within the specified range.
-- The user is given a limited number of attempts to guess the correct number.
+- The user is given a limited number of attempts to guess the correct number.  
 - Feedback is provided after each guess to guide the user.
 - If the user fails to guess correctly within the allowed attempts, the correct number is revealed.
 
