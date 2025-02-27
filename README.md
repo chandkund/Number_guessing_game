@@ -1,7 +1,7 @@
 # Number Guessing Game
 
 This is a simple number guessing game implemented in Python. The game generates a random number within a specified range and prompts the user to guess the number. The user has a limited number of attempts to guess the correct number, which is calculated based on the range.
-
+ 
 ## Project Overview
 
 In this game: 
